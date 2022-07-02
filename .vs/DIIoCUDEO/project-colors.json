@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb340aeb-a554-40f1-be10-b8ff60ed0e66": {
+      "ProjectGuid": "fb340aeb-a554-40f1-be10-b8ff60ed0e66",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 0
+    },
+    "1b5db0ce-499f-47b0-bc35-1d79863c311c": {
+      "ProjectGuid": "1b5db0ce-499f-47b0-bc35-1d79863c311c",
+      "DisplayName": "Services",
+      "ColorIndex": 1
+    },
+    "158b91a6-5a7d-4796-87d8-1c385d742ee5": {
+      "ProjectGuid": "158b91a6-5a7d-4796-87d8-1c385d742ee5",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 2
+    },
+    "7585d043-7049-4a99-8733-2d21296c6c22": {
+      "ProjectGuid": "7585d043-7049-4a99-8733-2d21296c6c22",
+      "DisplayName": "Models",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

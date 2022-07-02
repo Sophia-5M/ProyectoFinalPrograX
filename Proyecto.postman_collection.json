@@ -1,0 +1,138 @@
+{
+	"info": {
+		"_postman_id": "e3313c11-cb69-42c2-9a6c-021cff2659fa",
+		"name": "Proyecto",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Categoria",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/Categoria",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"Categoria"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Destino",
+			"protocolProfileBehavior": {
+				"strictSSL": false,
+				"followRedirects": true,
+				"followOriginalHttpMethod": false,
+				"followAuthorizationHeader": false,
+				"disableUrlEncoding": true,
+				"disableCookies": true,
+				"tlsPreferServerCiphers": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/Destino",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"Destino"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Lugares",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/Lugares",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"Lugares"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Tipo Transporte",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/TipoTransporte\n",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"TipoTransporte\n"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Transporte",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/Transporte\n",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"Transporte\n"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Usuario",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/api/Usuarios\n",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"api",
+						"Usuarios\n"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
